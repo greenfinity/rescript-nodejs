@@ -1,6 +1,6 @@
 {
   "name": "@greenfinity/rescript-nodejs",
-  "version": "16.1.0",
+  "version": "16.1.1-0",
   "scripts": {
     "build": "rescript",
     "clean": "rescript clean",
