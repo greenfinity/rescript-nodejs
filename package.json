@@ -1,5 +1,5 @@
 {
-  "name": "rescript-nodejs",
+  "name": "@greenfinity/rescript-nodejs",
   "version": "16.1.0",
   "scripts": {
     "build": "rescript",
@@ -24,10 +24,8 @@
   },
   "files": [
     "docs",
-    "examples",
     "lib/js",
     "src",
-    "test",
     "bsconfig.json",
     "CHANGELOG.md"
   ],

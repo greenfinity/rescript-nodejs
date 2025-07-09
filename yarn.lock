@@ -29,6 +29,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@greenfinity/rescript-nodejs@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@greenfinity/rescript-nodejs@workspace:."
+  dependencies:
+    "@dusty-phillips/rescript-zora": "npm:^4.0.0"
+    changie: "npm:^1.18.0"
+    onchange: "npm:^7.1.0"
+    pta: "npm:1.2.0"
+    rescript: "npm:^11.1.0"
+    zora: "npm:^5.2.0"
+  languageName: unknown
+  linkType: soft
+
 "@isaacs/cliui@npm:^8.0.2":
   version: 8.0.2
   resolution: "@isaacs/cliui@npm:8.0.2"
@@ -962,19 +975,6 @@ __metadata:
   checksum: 6fa848cf63d1b82ab4e985f4cf72bd55b7dcfd8e0a376905804e48c3634b7e749170940ba77b32804d5fe93b3cc521aa95a8d7e7d725f830da6d93f3669ce66b
   languageName: node
   linkType: hard
-
-"rescript-nodejs@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "rescript-nodejs@workspace:."
-  dependencies:
-    "@dusty-phillips/rescript-zora": "npm:^4.0.0"
-    changie: "npm:^1.18.0"
-    onchange: "npm:^7.1.0"
-    pta: "npm:1.2.0"
-    rescript: "npm:^11.1.0"
-    zora: "npm:^5.2.0"
-  languageName: unknown
-  linkType: soft
 
 "rescript@npm:^11.1.0":
   version: 11.1.4
